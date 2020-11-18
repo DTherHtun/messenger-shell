@@ -25,7 +25,7 @@ GEM
     hashdiff (0.3.2)
     httparty (0.14.0)
       multi_xml (>= 0.5.2)
-    json (2.0.3)
+    json (2.3.1)
     method_source (0.8.2)
     multi_xml (0.6.0)
     parser (2.3.3.1)
